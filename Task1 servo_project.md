@@ -27,7 +27,9 @@ Upon powering up the Arduino, all four servo motors are attached to their respec
  The system maintains this held state indefinitely.
  # Circuit Screenshot
 ![The Circle](IMG_3639.jpeg)
-#code
+## الكود
+
+```cpp
 #include <Servo.h>
 
 Servo servo1;
@@ -59,4 +61,4 @@ void setup() {
 
 void loop() {
 }
-
+```
