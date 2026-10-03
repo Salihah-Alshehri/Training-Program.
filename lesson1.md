@@ -25,4 +25,5 @@ Upon powering up the Arduino, all four servo motors are attached to their respec
  As soon as the 2-second threshold is reached, the sweep action terminates.  
  All four servo motors move to and hold a fixed 90-degree position.  
  The system maintains this held state indefinitely.
-! [The Circle] (IMG_3639.jpeg)
+![The Circle](IMG_3639.jpeg)
+
